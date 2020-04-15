@@ -1,4 +1,4 @@
 # Stable_Projects
-This repo is for the upload of my simple programs made in Python but there ara an .EXE files so is public and you can donwload and use as you want send me suggest for the new version of this programs.
+This repository is for the upload of my simple programs made in Python but there are .EXE files so it is public and you can download it and use it however you want, send me suggestions for new versions of these programs.
 
 WWW.MINEGREG.IT
